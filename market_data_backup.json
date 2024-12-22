@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "VERA",
+    "timestamp": "2024-11-16 20:45:51",
+    "price": 46.27,
+    "priceChange": -5.57,
+    "openPrice": 49.29,
+    "prevClose": 49.0,
+    "dayHigh": 49.31,
+    "dayLow": 45.64,
+    "volume": 909700,
+    "prevVolume": 642800,
+    "averageVolume": 676315.5555555555,
+    "volumeChange": 41.52,
+    "volumeVsAvg": 34.51,
+    "recentVolumes": [
+      658700,
+      545100,
+      1004300,
+      642800,
+      909700
+    ],
+    "marketCap": 2929326592,
+    "fiftyTwoWeekHigh": 51.61,
+    "fiftyTwoWeekLow": 12.28,
+    "alerts": 

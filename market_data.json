@@ -1,0 +1,251 @@
+[
+  {
+    "symbol": "VERA",
+    "timestamp": "2024-12-12 16:53:54",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Vera Therapeutics Inc is a clinical stage biotechnology company. It is focused on developing and commercializing transformative treatments for patients with serious immunological diseases. The company's\u00a0product candidate is atacicept, a fusion protein self-administered as a subcutaneous injection once weekly that blocks both B lymphocyte stimulator and a proliferation-inducing ligand, which stimulate B cells and plasma cells to produce autoantibodies contributing to certain autoimmune diseases.",
+    "branding": {
+      "icon_url": "https://api.polygon.io/v1/reference/company-branding/dmVyYXR4LmNvbQ/images/2024-10-01_icon.jpeg?apiKey=WL7rkKMQGlEpcRy_GogYH6hyclU8sOnq",
+      "logo_url": "https://api.polygon.io/v1/reference/company-branding/dmVyYXR4LmNvbQ/images/2024-10-01_logo.svg?apiKey=WL7rkKMQGlEpcRy_GogYH6hyclU8sOnq"
+    },
+    "price": 45.11,
+    "priceChange": -2.905725355144213,
+    "openPrice": 46.5,
+    "prevClose": 46.46,
+    "dayHigh": 47.04,
+    "dayLow": 44.54,
+    "volume": 449150,
+    "prevVolume": 377555,
+    "volumeMetrics": {
+      "recentVolumes": [
+        313058,
+        289795,
+        370527,
+        377555,
+        449150
+      ],
+      "volumeDates": [
+        "2024-12-05",
+        "2024-12-08",
+        "2024-12-09",
+        "2024-12-10",
+        "2024-12-11"
+      ],
+      "dailyChanges": [
+        -7.43,
+        27.86,
+        1.9,
+        18.96
+      ],
+      "averageVolume": 745775.984375,
+      "volumeChange": 18.96,
+      "volumeVsAvg": -39.77
+    },
+    "technicals": {
+      "rsi": null,
+      "volumeSMA": 745775.984375
+    },
+    "marketCap": 2856502920.83,
+    "insiderActivity": {
+      "recent_trades": 13,
+      "net_shares": 21524,
+      "notable_trades": [
+        {
+          "date": "2024-11-25",
+          "insider": "FORDYCE MARSHALL",
+          "position": "Chief Executive Officer",
+          "type": "Sale",
+          "shares": 19375,
+          "value": 929560.0,
+          "price_per_share": 47.97729032258064
+        },
+        {
+          "date": "2024-11-13",
+          "insider": "FORDYCE MARSHALL",
+          "position": "Chief Executive Officer",
+          "type": "Sale",
+          "shares": 30625,
+          "value": 1516037.0,
+          "price_per_share": 49.50324897959184
+        },
+        {
+          "date": "2024-10-28",
+          "insider": "SEIDENBERG BETH C",
+          "position": "Director",
+          "type": "Sale",
+          "shares": 15000,
+          "value": 720493.0,
+          "price_per_share": 48.03286666666666
+        },
+        {
+          "date": "2024-10-23",
+          "insider": "FORDYCE MARSHALL",
+          "position": "Chief Executive Officer",
+          "type": "Sale",
+          "shares": 19375,
+          "value": 782610.0,
+          "price_per_share": 40.392774193548384
+        },
+        {
+          "date": "2024-10-09",
+          "insider": "FORDYCE MARSHALL",
+          "position": "Chief Executive Officer",
+          "type": "Sale",
+          "shares": 15625,
+          "value": 597568.0,
+          "price_per_share": 38.244352
+        },
+        {
+          "date": "2024-09-25",
+          "insider": "FORDYCE MARSHALL",
+          "position": "Chief Executive Officer",
+          "type": "Sale",
+          "shares": 23125,
+          "value": 1064809.0,
+          "price_per_share": 46.0457945945946
+        },
+        {
+          "date": "2024-09-19",
+          "insider": "SEIDENBERG BETH C",
+          "position": "Director",
+          "type": "Sale",
+          "shares": 16476,
+          "value": 696233.0,
+          "price_per_share": 42.25740470988104
+        }
+      ],
+      "summary": {
+        "total_sales": 139601,
+        "total_purchases": 53000,
+        "total_awards": 108125,
+        "sales_count": 7,
+        "purchases_count": 1,
+        "awards_count": 5,
+        "total_value": {
+          "sales": 6307310.0,
+          "purchases": 0.0,
+          "awards": 313216.0
+        }
+      },
+      "latest_date": "2024-11-25"
+    },
+    "recentNews": [
+      {
+        "title": "Vera Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+        "publisher": "GlobeNewswire Inc.",
+        "timestamp": "2024-12-09T23:29:00Z",
+        "url": "https://www.globenewswire.com/news-release/2024/12/09/2994136/0/en/Vera-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+        "type": "VERA"
+      },
+      {
+        "title": "Vera Therapeutics Announces Proposed Public Offering of Class A Common Stock",
+        "publisher": "GlobeNewswire Inc.",
+        "timestamp": "2024-10-28T21:37:00Z",
+        "url": "https://www.globenewswire.com/news-release/2024/10/28/2970400/0/en/Vera-Therapeutics-Announces-Proposed-Public-Offering-of-Class-A-Common-Stock.html",
+        "type": "VERA"
+      },
+      {
+        "title": "Vera Therapeutics Announces 96-week eGFR Stabilization in ORIGIN Phase 2b Study of Atacicept in IgAN in a Late-Breaking Oral Presentation at the American Society of Nephrology Kidney Week 2024",
+        "publisher": "GlobeNewswire Inc.",
+        "timestamp": "2024-10-26T23:30:00Z",
+        "url": "https://www.globenewswire.com/news-release/2024/10/26/2969705/0/en/Vera-Therapeutics-Announces-96-week-eGFR-Stabilization-in-ORIGIN-Phase-2b-Study-of-Atacicept-in-IgAN-in-a-Late-Breaking-Oral-Presentation-at-the-American-Society-of-Nephrology-Kidn.html",
+        "type": "VERA"
+      },
+      {
+        "title": "Vera Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - GlobeNewswire",
+        "publisher": "GlobeNewswire Inc.",
+        "timestamp": "2024-07-05T20:31:33Z",
+        "url": "https://www.globenewswire.com/news-release/2024/07/05/2909190/0/en/Vera-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+        "type": "VERA"
+      },
+      {
+        "title": "Vera Therapeutics Appoints Christy J. Oliger to Board of Directors",
+        "publisher": "GlobeNewswire Inc.",
+        "timestamp": "2024-06-11T20:01:00Z",
+        "url": "https://www.globenewswire.com/news-release/2024/06/11/2897152/0/en/Vera-Therapeutics-Appoints-Christy-J-Oliger-to-Board-of-Directors.html",
+        "type": "VERA"
+      }
+    ],
+    "fundamentals": {
+      "peRatios": {
+        "trailingPE": null,
+        "forwardPE": -16.29726
+      },
+      "estimates": {
+        "revenue": {
+          "nextQuarter": null,
+          "currentYear": null,
+          "nextYear": null
+        },
+        "earnings": {
+          "nextQuarter": null,
+          "currentYear": null,
+          "nextYear": null
+        }
+      },
+      "quarterlyMetrics": {
+        "revenue": 0,
+        "netIncome": -46632000.0,
+        "researchAndDevelopment": 40314000.0,
+        "operatingExpense": 49801000.0
+      },
+      "detailedQuarterly": {
+        "revenue": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          NaN
+        ],
+        "revenueChanges": [
+          null,
+          NaN,
+          null,
+          null,
+          null,
+          null
+        ],
+        "netIncome": [
+          -46632000.0,
+          -33708000.0,
+          -28383000.0,
+          -25655000.0,
+          -20104000.0,
+          NaN
+        ],
+        "netIncomeChanges": [
+          -131.95,
+          NaN,
+          null,
+          null,
+          null,
+          null
+        ],
+        "operatingMargin": [],
+        "operatingMarginChanges": [],
+        "freeCashFlow": [],
+        "freeCashFlowChanges": [],
+        "dates": [
+          "2024-09-30",
+          "2024-06-30",
+          "2024-03-31",
+          "2023-12-31",
+          "2023-09-30",
+          "2023-06-30"
+        ]
+      }
+    },
+    "alerts": 3,
+    "alertDetails": {
+      "priceAlert": false,
+      "volumeSpike10": true,
+      "volumeSpike20": false,
+      "highVolume": false,
+      "insiderAlert": true,
+      "newsAlert": true,
+      "technicalAlert": false
+    }
+  }
+]

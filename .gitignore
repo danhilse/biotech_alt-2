@@ -1,0 +1,8 @@
+/node_modules
+/.venv
+.env
+/backend/data
+biotech-dashboard-frontend/public/data
+env_name/
+venv/
+.DS_Store
